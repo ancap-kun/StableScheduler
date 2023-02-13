@@ -7,12 +7,12 @@
 ```xml
 <repository>
     <id>jitpack.io</id>
-		<url>https://jitpack.io</url>
+    <url>https://jitpack.io</url>
 </repository>
 
 <dependency>
     <groupId>com.github.ancap-kun</groupId>
-	  <artifactId>StableScheduler</artifactId>
-	  <version>Tag</version>
+    <artifactId>StableScheduler</artifactId>
+    <version>Tag</version>
 </dependency>
 ```
