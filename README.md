@@ -1,3 +1,4 @@
+![Release](https://jitpack.io/v/ancap-kun/StableScheduler.svg?style=flat-square)
 # StableScheduler
 
 Библиотека для планировки длительных задач. Позволяет запланировать выполнение задачи так, чтобы она выполнилась вне зависимости от перезагрузок JVM.
@@ -13,6 +14,6 @@
 <dependency>
     <groupId>com.github.ancap-kun</groupId>
     <artifactId>StableScheduler</artifactId>
-    <version>Tag</version>
+    <version>смотри вверху</version>
 </dependency>
 ```
